@@ -24,8 +24,8 @@ public class SquarePerimeter {
 }
 
 
-/* Output: Enter the side of the square: 5
-Perimeter of the square: 20.0
+/* Output: Enter the side of the square: 6
+Perimeter of the square: 24.0
 */
 
 
