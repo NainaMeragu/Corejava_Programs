@@ -37,14 +37,14 @@ public class EmployeeDetails {
     }
 }
 
-/*Enter Employee ID: 123
-Enter Employee Name: John Doe
-Enter Employee Address: 123 Main St, Anytown
+/*Enter Employee ID: 450
+Enter Employee Name: Sonakshi
+Enter Employee Address: 123 Daji peth,solapur
 Enter Employee Salary: 50000.0
 
 Employee Details:
-Employee ID: 123
-Employee Name: John Doe
-Employee Address: 123 Main St, Anytown
+Employee ID: 450
+Employee Name: Sonakshi
+Employee Address: 123 Dajipeth,solapur
 Employee Salary: 50000.0*/
 
