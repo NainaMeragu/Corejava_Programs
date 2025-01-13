@@ -45,6 +45,6 @@ Enter Employee Salary: 50000.0
 Employee Details:
 Employee ID: 450
 Employee Name: Sonakshi
-Employee Address: 123 Dajipeth,solapur
+Employee Address: 123 Daji peth,solapur
 Employee Salary: 50000.0*/
 
