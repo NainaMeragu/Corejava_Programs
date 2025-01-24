@@ -56,4 +56,8 @@ public class InheritanceEx2 {
 }
 
 /*Output:Driving the Vehicle...
-honk honk!... */
+honk honk!...
+Brand : Toyata
+Model : Activa
+Year : 2025
+Color : Blue */
